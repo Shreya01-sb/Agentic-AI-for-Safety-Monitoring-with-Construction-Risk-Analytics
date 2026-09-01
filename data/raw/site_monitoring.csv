@@ -1,0 +1,9 @@
+timestamp,weather,visibility,equipment_status,floor_condition
+2026-08-31 09:00,normal,normal,normal,dry
+2026-08-31 10:00,normal,normal,normal,dry
+2026-08-31 11:00,heavy_rain,low,normal,wet
+2026-08-31 12:00,heavy_rain,low,faulty,wet
+2026-08-31 13:00,normal,normal,normal,dry
+2026-08-31 14:00,normal,low,normal,wet
+2026-08-31 15:00,heavy_rain,normal,faulty,wet
+2026-08-31 16:00,normal,normal,normal,dry
