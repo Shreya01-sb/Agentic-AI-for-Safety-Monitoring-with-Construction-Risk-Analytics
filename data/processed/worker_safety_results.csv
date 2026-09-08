@@ -1,0 +1,13 @@
+timestamp,worker_id,zone,safety_score,safety_level,ppe_compliance,violations,alert,recommendations
+2026-09-01 09:00,W001,Zone A,100,Safe,Compliant,,No Alert,
+2026-09-01 10:00,W002,Zone A,75,Low,Violation,Helmet violation,Safety Warning,Worker must wear a safety helmet.
+2026-09-01 11:00,W003,Zone B,45,High,Violation,Safety vest violation; Unsafe worker behavior,Critical Alert,Worker must wear a safety vest.; Stop unsafe activity and provide safety guidance.
+2026-09-01 12:00,W004,Zone B,20,Critical,Violation,Helmet violation; Safety vest violation; Unsafe worker behavior,Critical Alert,Worker must wear a safety helmet.; Worker must wear a safety vest.; Stop unsafe activity and provide safety guidance.
+2026-09-01 13:00,W005,Zone C,80,Low,Violation,Safety shoes violation,Safety Warning,Worker must wear approved safety shoes.
+2026-09-01 14:00,W006,Zone C,65,Medium,Compliant,Unsafe worker behavior,High Alert,Stop unsafe activity and provide safety guidance.
+2026-09-01 15:00,W007,Zone A,20,Critical,Violation,Helmet violation; Safety shoes violation; Unsafe worker behavior,Critical Alert,Worker must wear a safety helmet.; Worker must wear approved safety shoes.; Stop unsafe activity and provide safety guidance.
+2026-09-01 16:00,W008,Zone B,100,Safe,Compliant,,No Alert,
+2026-09-01 17:00,W009,Zone C,25,High,Violation,Safety vest violation; Safety shoes violation; Unsafe worker behavior,Critical Alert,Worker must wear a safety vest.; Worker must wear approved safety shoes.; Stop unsafe activity and provide safety guidance.
+2026-09-01 18:00,W010,Zone A,100,Safe,Compliant,,No Alert,
+2026-09-01 19:00,W011,Zone B,0,Critical,Violation,Helmet violation; Safety vest violation; Safety shoes violation; Unsafe worker behavior,Critical Alert,Worker must wear a safety helmet.; Worker must wear a safety vest.; Worker must wear approved safety shoes.; Stop unsafe activity and provide safety guidance.
+2026-09-01 20:00,W012,Zone C,100,Safe,Compliant,,No Alert,

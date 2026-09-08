@@ -1,0 +1,9 @@
+timestamp,risk_score,risk_level,hazard_count,hazards,recommendations
+2026-08-31 09:00,0,Safe,0,,
+2026-08-31 10:00,0,Safe,0,,
+2026-08-31 11:00,90,Critical,3,Heavy rain; Low visibility; Wet floor,Stop high-risk outdoor activities.; Improve site lighting and visibility.; Restrict access and remove water.
+2026-08-31 12:00,100,Critical,4,Heavy rain; Low visibility; Faulty equipment; Wet floor,Stop high-risk outdoor activities.; Improve site lighting and visibility.; Stop using faulty equipment immediately.; Restrict access and remove water.
+2026-08-31 13:00,0,Safe,0,,
+2026-08-31 14:00,50,Medium,2,Low visibility; Wet floor,Improve site lighting and visibility.; Restrict access and remove water.
+2026-08-31 15:00,100,Critical,3,Heavy rain; Faulty equipment; Wet floor,Stop high-risk outdoor activities.; Stop using faulty equipment immediately.; Restrict access and remove water.
+2026-08-31 16:00,0,Safe,0,,
